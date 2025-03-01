@@ -18,7 +18,7 @@
 ### 🚀 Tecnologías & Herramientas 🚀
 
 🖥 **Lenguajes:** Java  
-🎨 **Diseño:** HTML, CSS, Figma  
+🎨 **Diseño:** HTML, CSS
 🛠 **Herramientas:** VS Code, GitHub  
 
 ---
