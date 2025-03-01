@@ -31,7 +31,7 @@
 ---
 
 © 2024 - Creado con ❤️ por *Nancy*
-## Hi there 👋
+
 
 <!--
 **MYJ06IN/MYJ06IN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
