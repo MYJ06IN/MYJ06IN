@@ -2,7 +2,7 @@
 
 # ✨ Hola! Soy Nancy ✨
 
-**Desarrolladora en formación | Java | VS Code**  
+**Programadora en formación | Java | VS Code**  
 📍 *Universidad Autónoma Metropolitana Iztapalapa - Ciudad de México*  
 
 ---
